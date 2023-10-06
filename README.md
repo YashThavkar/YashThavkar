@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.easytocheck.com%2Fzoho-developer&psig=AOvVaw3PF77Km5Dptqh2uu_RJhMt&ust=1696720385062000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD5jZDG4oEDFQAAAAAdAAAAABAE)" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
 <h3 align="center">I have pursued my B.TECH in Artificial Intelligence</h3>
