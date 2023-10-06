@@ -58,7 +58,6 @@
 <br/>
 <br/>
 
-<h2 align='center'><i><a href="https://github.com/YashThavkar/github-readme-activity-graph">Activity Graph 📈</i></h2>
 
 <p align="center">
 <a href="https://github.com/YashThavkar/github-readme-activity-graph)#gh-light-mode-only">
