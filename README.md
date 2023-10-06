@@ -58,7 +58,16 @@
 <br/>
 <br/>
 
-<a href="https://github.com/YashThavkar/github-readme-activity-graph"><img alt="YashThavkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YashThavkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<h2 align='center'><i><a href="https://github.com/YashThavkar/github-readme-activity-graph">Activity Graph 📈</i></h2>
+
+<p align="center">
+<a href="https://github.com/YashThavkar/github-readme-activity-graph)#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashThavkar&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/YashThavkar/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashThavkar&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 <br/>
 <br/>
