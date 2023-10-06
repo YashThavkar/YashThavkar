@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Researches.**
 
-- 🤝 All of my projects are available at **https://github.com/YashThavkar**
-
 - 👨‍💻 All of my projects are available at **https://github.com/YashThavkar?tab=repositories**
 
 - 💬 Ask me about **Python**
