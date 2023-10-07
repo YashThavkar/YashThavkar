@@ -50,6 +50,24 @@
 
 </p>
 
+
+</br>
+</br>
+
+
+<p align="center">
+<a href="https://github.com/YashThavkar/github-readme-activity-graph)#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashThavkar&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/YashThavkar/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashThavkar&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+</br>
+</br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-thavkar-7ab600205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-thavkar-7ab600205" height="40" width="40" /></a>
