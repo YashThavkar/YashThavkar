@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
 <h3 align="center">I have pursued my B.Tech in Artificial Intelligence, I like to explore more in Machine Learning, proficient in data analysis and model building.</h3>
 
