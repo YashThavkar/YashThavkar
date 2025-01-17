@@ -19,6 +19,8 @@
 <p><em>AI/ML Engineer at Indirealm </a> . </em>
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I have previous experience as a Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
 
