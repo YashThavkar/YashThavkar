@@ -1,6 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
+
+<p align="left">
+  <a href="https://github.com/dereknguyen269">
+    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
+  </a>
+  <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
 <h3 align="center">I have pursued my B.Tech in Artificial Intelligence, I like to explore more in Machine Learning, proficient in data analysis and model building.</h3>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>AI/ML Engineer at Indirealm </a> . </em>
