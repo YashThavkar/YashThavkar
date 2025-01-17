@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
 <h3 align="center">I have pursued my B.Tech in Artificial Intelligence, I like to explore more in Machine Learning, proficient in data analysis and model building.</h3>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p><em>Full Stack / Algorithm Engineer at <a href="https://afi.team/team/">Alipay AFI</a> . </em>
+<p><em>AI/ML Engineer at Indirealm AFI</a> . </em>
 
-Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I am currently working with @Indirealm, and have previously Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
+Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I have previous experience as a Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
 
 
 > *💡 ""Implementing AI is easy; the challenge is using it as an assistant, not a replacement."" - Yash Thavkar* 🚀
