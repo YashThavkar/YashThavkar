@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
 
 <p align="left">
-  <a href="https://github.com/dereknguyen269">
+  <a href="https://github.com/YashThavkar">
     <img src="https://github.com/YashThavkar" alt="page views">
   </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+  <a href="https://github.com/YashThavkar?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YashThavkar?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="https://github.com/YashThavkar/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
