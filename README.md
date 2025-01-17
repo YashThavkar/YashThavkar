@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/YashThavkar">
     <img src="https://komarev.com/ghpvc/?username=YashThavkar" alt="page views">
   </a>
