@@ -1,170 +1,138 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<p align="center">
-  <a href="https://github.com/YashThavkar">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Yash Thavkar" /></a>
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Yash Thavkar/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer;ML%20Engineer;Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YashThavkar">
-    <img src="https://komarev.com/ghpvc/?username=YashThavkar" alt="page views">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <a href="https://github.com/YashThavkar?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YashThavkar?color=green&logo=github">
-  </a>
-  <a href="https://github.com/YashThavkar/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
+</h1>
 
-
-Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I have previous experience as a Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
-
-
-
-> *💡 "Implementing AI is easy; the challenge is using it as an assistant, not a replacement." - Yash Thavkar* 🚀
-
-
-<!-- Nothing weird to see here -->
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
-  </a>
+  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  <br>
+  <br>
+  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  <br>
+  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  <br>
+  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
+<hr>
 
-<p></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-
-## 🤖 About Me
-
-- 🔭 I’m currently working on [Deep Learning and Machine Learning.](https://github.com/YashThavkar/Machine_Learning)
-
-- 🌱 I’m currently learning **TensorFlow and Pytorch**
-
-- 👯 I’m looking to collaborate on **Computer Vision**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)
-
-- 💬 Ask me about **Python, Machine Learning**
-
-- 📫 How to reach me **yashthavkar3@gmail.com**
-
-- ⚡ Fun fact **I play cricket very often.**
-
-
-## 🔧 Technologies & Tools
-
-### Languages
-- Python | JavaScript | C++ | SQL
-- R | Julia | MATLAB
-
-### Frameworks & Libraries
-- 🧠 Deep Learning: TensorFlow, PyTorch, Keras
-- 🤗 NLP: Transformers, spaCy, NLTK
-- 📊 Data Science: NumPy, Pandas, Scikit-learn
-- 🛠 MLOps: Docker, MLflow
-- ☁️ Cloud: AWS SageMaker, Azure ML
-
-## 🎯 Current Focus
-- Large Language Models (LLMs) fine-tuning and deployment
-- MLOps and AI Infrastructure optimization
-- Researching efficient training methods for transformer architectures
-- Contributing to open-source AI projects
-
-
-<div align="center">
-
-## Where are you hoping to travel next? :airplane: :earth_americas: :luggage:
-
-
-<h3 align="left">Languages :</h3>
-
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
-
-
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="center"> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="50"/> </a>  
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="50"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="50"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="50"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="50"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="50"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="50"/>  </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="50"/> </a>
-</a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="50"/> </a>  </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="50"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="50"/> </a>  
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="50"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashthavkar&show_icons=true&locale=en&layout=compact" alt="yashthavkar" /></p>
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashthavkar&show_icons=true&locale=en" alt="yashthavkar" /></p>
+<!--
+**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashthavkar&" alt="yashthavkar" />
+Here are some ideas to get you started:
 
-</p>
-
-
-</br>
-</br>
-
-
-<p align="center">
-<a href="https://github.com/YashThavkar/github-readme-activity-graph)#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashThavkar&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/YashThavkar/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashThavkar&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
-</br>
-</br>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-thavkar-7ab600205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-thavkar-7ab600205" height="40" width="40" /></a>
-<a href="https://kaggle.com/https://kaggle.com/yashthavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://kaggle.com/yashthavkar" height="40" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/yashthavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/yashthavkar" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/yashthavkar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yashthavkar3" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yashthavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yashthavkar" height="40" width="40" /></a>
-</p>
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+
+-->
