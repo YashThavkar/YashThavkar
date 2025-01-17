@@ -1,16 +1,31 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2>Hi, I'm Rao Hai! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
+<h3 align="center">I have pursued my B.Tech in Artificial Intelligence, I like to explore more in Machine Learning, proficient in data analysis and model building.</h3>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>Full Stack / Algorithm Engineer at <a href="https://afi.team/team/">Alipay AFI</a> . </em>
 
-![Profile Banner](https://img.shields.io/badge/AI-Engineer-blue) ![Python](https://img.shields.io/badge/Python-Expert-yellow) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red)
+Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I am currently working with @Indirealm, and have previously Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
 
-> *Building the future of AI, one model at a time* 🚀
+
+> *💡 "The best way to predict the future is to invent it." - Alan Kay* 🚀
 
 ## 🤖 About Me
 
-I'm a passionate AI Engineer with expertise in developing and deploying machine learning models at scale. My journey in AI started with computer vision projects, and now I work across the full spectrum of AI applications - from NLP to reinforcement learning.
+- 🔭 I’m currently working on [Deep Learning and Machine Learning.](https://github.com/YashThavkar/Machine_Learning)
+
+- 🌱 I’m currently learning **TensorFlow and Pytorch**
+
+- 👯 I’m looking to collaborate on **Computer Vision**
+
+- 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)
+
+- 💬 Ask me about **Python, Machine Learning**
+
+- 📫 How to reach me **yashthavkar3@gmail.com**
+
+- ⚡ Fun fact **I play cricket very often.**
+
 
 ## 🔧 Technologies & Tools
 
@@ -30,32 +45,6 @@ I'm a passionate AI Engineer with expertise in developing and deploying machine 
 - MLOps and AI Infrastructure optimization
 - Researching efficient training methods for transformer architectures
 - Contributing to open-source AI projects
-
-
-
----
-💡 *"The best way to predict the future is to invent it." - Alan Kay*
-
-
-<h1 align="center">Hi 👋, I'm Yash Thavkar</h1>
-<h3 align="center">I have pursued my B.Tech in Artificial Intelligence, I like to explore more in Machine Learning, proficient in data analysis and model building.</h3>
-
-- 🔭 I’m currently working on [Deep Learning and Machine Learning.](https://github.com/YashThavkar/Machine_Learning)
-
-- 🌱 I’m currently learning **TensorFlow and Pytorch**
-
-- 👯 I’m looking to collaborate on **Computer Vision**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)
-
-- 💬 Ask me about **Python, Machine Learning**
-
-- 📫 How to reach me **yashthavkar3@gmail.com**
-
-- ⚡ Fun fact **I play cricket very often.**
-
-
-Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I am currently working with @Indirealm, and have previously Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
 
 
 <div align="center">
