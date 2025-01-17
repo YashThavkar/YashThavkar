@@ -8,7 +8,7 @@
 Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time coder and full-time adventure seeker. I am currently working with @Indirealm, and have previously Software Engineer @Yardi_Software, AI/ML Intern @Samsu_Pro_Consulting_Solution, and Virtual Trainee @JPMorgan.  Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yasthavkar/)!
 
 
-> *💡 "The best way to predict the future is to invent it." - Alan Kay* 🚀
+> *💡 ""Implementing AI is easy; the challenge is using it as an assistant, not a replacement."" - Yash Thavkar* 🚀
 
 ## 🤖 About Me
 
@@ -37,8 +37,8 @@ Welcome to my profile! I'm a student, aspiring ## AI Engineer ##, part-time code
 - 🧠 Deep Learning: TensorFlow, PyTorch, Keras
 - 🤗 NLP: Transformers, spaCy, NLTK
 - 📊 Data Science: NumPy, Pandas, Scikit-learn
-- 🛠 MLOps: Docker, Kubernetes, MLflow
-- ☁️ Cloud: AWS SageMaker, Google Cloud AI, Azure ML
+- 🛠 MLOps: Docker, MLflow
+- ☁️ Cloud: AWS SageMaker, Azure ML
 
 ## 🎯 Current Focus
 - Large Language Models (LLMs) fine-tuning and deployment
