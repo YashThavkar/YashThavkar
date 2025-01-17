@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<h3 align="center">I have pursued my B.Tech in Artificial Intelligence, I like to explore more in Machine Learning, proficient in data analysis and model building.</h3>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p><em>AI/ML Engineer at Indirealm </a> . </em>
-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
