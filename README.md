@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/YashThavkar">
-    <img src="https://github.com/YashThavkar" alt="page views">
+    <img src="https://komarev.com/ghpvc/?username=YashThavkar" alt="page views">
   </a>
   <a href="https://github.com/YashThavkar?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/YashThavkar?color=green&logo=github">
