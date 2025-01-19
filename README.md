@@ -1,6 +1,6 @@
 # YASH THAVKAR
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashthavkar.yashthavkar">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashthavkar">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
