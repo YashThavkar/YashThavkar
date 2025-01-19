@@ -8,9 +8,6 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashthavkar">
-
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yashthavkar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/yashthavkar" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
@@ -22,7 +19,11 @@
   Hi, I'm Yash Thavkar, AI/ML Engineer from INDIA
   <br>
   <br>
-  - 🔭 I’m currently working on [Deep Learning and Machine Learning.](https://github.com/YashThavkar/Machine_Learning)<br><br>- 🌱 I’m currently learning **TensorFlow and Pytorch**<br><br>- 👯 I’m looking to collaborate on **Computer Vision**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)<br><br>- 💬 Ask me about **Python, Machine Learning**<br><br>- 📫 How to reach me **yashthavkar3@gmail.com**<br><br>- ⚡ Fun fact **I play cricket very often.**
+  - 🔭 I’m currently working on [Deep Learning and Machine Learning.](https://github.com/YashThavkar/Machine_Learning)<br><br>
+  - 🌱 I’m currently learning **TensorFlow and Pytorch**<br><br>- 👯 I’m looking to collaborate on **Computer Vision**<br><br>
+  - 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)<br><br>
+  - 💬 Ask me about **Python, Machine Learning**<br><br>- 📫 How to reach me **yashthavkar3@gmail.com**<br><br>
+  - ⚡ Fun fact **I play cricket very often.**
 
 </p>
 
