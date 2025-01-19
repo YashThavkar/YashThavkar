@@ -1,3 +1,23 @@
+# Yash Thavkar
+
+
+### 🖥 Skills
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+
+
+
 # 💫 About Me:
 - 🔭 I’m currently working on [Deep Learning and Machine Learning.](https://github.com/YashThavkar/Machine_Learning)<br><br>- 🌱 I’m currently learning **TensorFlow and Pytorch**<br><br>- 👯 I’m looking to collaborate on **Computer Vision**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)<br><br>- 💬 Ask me about **Python, Machine Learning**<br><br>- 📫 How to reach me **yashthavkar3@gmail.com**<br><br>- ⚡ Fun fact **I play cricket very often.**
 
