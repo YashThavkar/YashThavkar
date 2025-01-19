@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthavkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashthavkar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yashthavkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashthavkar" /> </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +7,10 @@
 </h1>
 
 
-## 🌐 Socials:
+<h1 align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasthavkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashthavkar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yasthavkar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yasthavkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashThavkar) 
+</h1>
+
 
 <br>
 <p align="center">
