@@ -49,8 +49,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashthavkar&show_icons=true&locale=en" alt="yashthavkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashthavkar&" alt="yashthavkar" /></p>
 
+<h2 align= "center"> </h2>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
