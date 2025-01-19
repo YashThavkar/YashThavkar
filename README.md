@@ -49,17 +49,6 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a ![](https://github-contributor-stats.vercel.app/api?username=yashthavkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=yashthavkar&icon=0&color=0)](https://visitcount.itsvg.in)
-</a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashthavkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashthavkar&theme=dark&hide_border=false)<br/>
