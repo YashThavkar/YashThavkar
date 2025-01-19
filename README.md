@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashthavkar&label=Profile%20views&color=0e75b6&style=flat" alt="yashthavkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthavkar" alt="yashthavkar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashthavkar" alt="yashthavkar" /></a> </p>
 
 - 🔭 I’m currently working on [Computer Vision](https://github.com/YashThavkar/Computer_Vision)
 
@@ -26,15 +26,15 @@
 
 - 🤝 I’m looking for help with **AI/ ML Engineer's**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YashThavkar?tab=repositories](https://github.com/YashThavkar?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repo's](https://github.com/YashThavkar?tab=repositories)
 
 - 💬 Ask me about **AI**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me is through **LinkedIn**
 
-- 📄 Know about my experiences [https://resume.co/@8lzJSuvFmqgOU6kET16j?password=ViQozNukFeJa](https://resume.co/@8lzJSuvFmqgOU6kET16j?password=ViQozNukFeJa)
+- 📄 Know about my experiences through my [CV](https://resume.co/@8lzJSuvFmqgOU6kET16j?password=ViQozNukFeJa)
 
-- ⚡ Fun fact **I like to hold cricket ball but I am holding a electronic mouse**
+- ⚡ Fun fact **I like to hold Cricket Ball but I am holding a Electronic Mouse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
