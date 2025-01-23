@@ -51,8 +51,8 @@
 
 
 
-###Randam Developer Quote
-  <br>
+### Randam Developer Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
