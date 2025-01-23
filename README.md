@@ -51,7 +51,7 @@
 
 
 
-<h2 align="center">Randam Developer Quote</h2>
+###Randam Developer Quote
   <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
