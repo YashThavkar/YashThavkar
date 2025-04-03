@@ -50,10 +50,8 @@
 
 
 
-<h1 align= "left">
-### Developer Quote 
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-</h1>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
