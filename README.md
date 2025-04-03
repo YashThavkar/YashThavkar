@@ -11,10 +11,6 @@
 
 </h1>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
 
 - 🔭 I’m currently working on [Computer Vision](https://github.com/YashThavkar/Computer_Vision)
 
@@ -44,6 +40,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashthavkar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 </p>
+
+![GitHub Activity Graph](https://github-activity-stats.vercel.app/graph?username=yashthavkar)
 
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashthavkar&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
