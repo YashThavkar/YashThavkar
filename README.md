@@ -50,10 +50,10 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashthavkar&show_icons=true&locale=en" alt="yashthavkar" /></p>
 
 <hr>
-
-### Randam Developer Quote </h1>
 <h1 align= "left">
+### Randam Developer Quote </h1>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-</h1>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
