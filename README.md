@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashthavkar&show_icons=true&locale=en" alt="yashthavkar" /></p>
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashthavkar&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
+<img align="right" ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashthavkar&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)/>
 
 
 
